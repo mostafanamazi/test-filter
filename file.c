@@ -1,4 +1,3 @@
 #include <hello>
 
-byte secret = {' '}
 
